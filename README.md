@@ -1,7 +1,7 @@
 # Homework-Manager
 Get latest release: https://akzuwo.ch/Homework-Manager-v1.5.2-dev.exe
 
-Nutzungsbedingungen für [Name des Programms]
+Nutzungsbedingungen für Homework Manager
 
 1. Lizenz
 Dieses Programm wird als Freeware zur Verfügung gestellt. Die Nutzung ist ausschließlich zu privaten Zwecken gestattet. Eine Weiterveröffentlichung, -verbreitung, -weitergabe oder Vervielfältigung (auch in veränderter Form) des Programms ist ohne ausdrückliche schriftliche Genehmigung des Urhebers strengstens untersagt.
@@ -17,6 +17,6 @@ Sollten einzelne Bestimmungen dieser Nutzungsbedingungen ganz oder teilweise unw
 
 5. Kontakt
 Für Fragen oder Anmerkungen zu diesen Nutzungsbedingungen wenden Sie sich bitte an:
-[Kontaktinformationen des Autors]
+timowigger8@gmail.com
 
 Mit der Nutzung dieses Programms erkennen Sie diese Bedingungen an.
