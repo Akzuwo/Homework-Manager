@@ -1,5 +1,5 @@
 # Homework-Manager
-Get latest release: https://akzuwo.ch/Homework-Manager-v1.5.3-dev.exe
+Get latest release: https://akzuwo.ch/Homework-Manager-v1.5.5-dev.exe
 
 Nutzungsbedingungen für Homework Manager:
 
