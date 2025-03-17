@@ -2,7 +2,7 @@
 Get latest release: https://akzuwo.ch/Homework-Manager-v1.5.5-dev.exe
 
 # Wichtiger Hinweis:
-Aktuell ist eine Webversion des Homewirk-Manager in arbeit, welche ein bessere Benutzeroberfläche bieten wird.
+Aktuell ist eine Webversion des Homework-Manager in arbeit, welche ein bessere Benutzeroberfläche bieten wird.
 Sobald die Webversion veröffentlicht wurde, erhalten alle Verionen (ab 1.5.5 und abwärts) legacy Status.
 (Erklärung legacy Status: https://de.wikipedia.org/wiki/Altsystem)
 
