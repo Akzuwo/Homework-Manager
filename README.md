@@ -1,5 +1,6 @@
 # Homework-Manager
 Get latest release: https://akzuwo.ch/Homework-Manager-v1.5.5-dev.exe
+
 Mehr Informationen in der Projektbeschreibung
 
 # Wichtiger Hinweis:
