@@ -12,6 +12,12 @@ Daher wollte ich eine **Lösung entwickeln**, die auch meinen Klassenkameraden e
 So entstand der **Homework-Manager**:  
 Ein Programm, das einen **Hausaufgaben- und Prüfungs-Kalender** bietet und einige zusätzliche Features mitbringt.  
 
+## 🔄️ Update 1.5 
+Die Benutzeroberfläche wurde angepasst um eine höhere Benutzerfreundlichkeit zu garantieren, zudem wurde der "Noterechner" implementiert.
+
+## 🔄️ Update 1.6 W.i.P. (Work in Progress)
+Die Benutzerfläche wird erneut überarbeitet und zu einer HTML/Flask Oberfläche umgebaut
+
 ## ℹ️ Mehr Infos
 
 Falls du **mehr über die Entstehung oder die Struktur** des Projekts erfahren möchtest, kannst du dich gerne bei mir melden. 😊
