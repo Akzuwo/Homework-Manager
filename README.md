@@ -1,5 +1,6 @@
 # Homework-Manager
 Get latest release: https://akzuwo.ch/Homework-Manager-v1.5.6-dev.exe
+Neue Webversion homework-manager.akzuwo.ch (Info: bitte das Neuladen des Anmeldefensters manuell abbrechen)
 
 Mehr Informationen in der Projektbeschreibung
 
@@ -7,6 +8,8 @@ Mehr Informationen in der Projektbeschreibung
 Aktuell ist die erste 1.6 Version des Homework-Manager in Arbeit, welche ein bessere Benutzeroberfläche bieten wird.
 Sobald die neue Version veröffentlicht wurde, erhalten alle Verionen (ab 1.5.5 und abwärts) legacy Status.
 (Erklärung legacy Status: https://de.wikipedia.org/wiki/Altsystem)
+
+Update: Die neue 1.6 ist jetzt verfügbar unter homework-manager.akzuwo.ch
 
 # Benutzungsbedingungen
 Nutzungsbedingungen für Homework Manager:
