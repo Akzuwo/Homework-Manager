@@ -8,8 +8,8 @@ Mehr Informationen in der [Projektbeschreibung](https://github.com/Akzuwo/Homewo
 
 # Wichtiger Hinweis:
 Aktuell ist die erste 1.6 Version des Homework-Manager in Arbeit, welche ein bessere Benutzeroberfläche bieten wird.
-Sobald die neue Version veröffentlicht wurde, erhalten alle Verionen (ab 1.5.5 und abwärts) legacy Status.
-(Erklärung legacy Status: https://de.wikipedia.org/wiki/Altsystem)
+Sobald die neue Version veröffentlicht wurde, erhalten alle Verionen (ab 1.5.5 und abwärts) [legacy Status.](https://de.wikipedia.org/wiki/Altsystem)
+
 Hier stehen nur alle Versionen ab 1.5.2 oder höher zur verfügung, ältere Versionen finder du [hier!](https://drive.google.com/drive/folders/1IkRyCTG0TCpjFZ9YFynCw7sVXGGf68a8?usp=sharing)
 
 Update: Die neue 1.6 ist jetzt verfügbar unter:
