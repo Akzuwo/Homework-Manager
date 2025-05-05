@@ -18,21 +18,37 @@ Die Benutzeroberfläche wurde angepasst um eine höhere Benutzerfreundlichkeit z
 ## 🔄️ Update 1.6.x
 Aktuell versuche ich die Benutzeroberfläche zu überarbeiten, jedoch ist mir schnell klar geworden, dass die Möglichkeiten einer reinen Python Benutzenoberfläche sehr beschränkt sind bzw. viel zu komplieziert um ein gutes Resulat zu erzielen. Die Folge davon war, dass ich mir alternativen überlegen musste. Die Lösung war schnell gefunden, ich wollte die Benutzeroberfläche mit HTML und CSS gestalten (so wie jede Webseite auch programmiert ist). Für die Funktionalitäten wollte ich weiterhin auf Python setzen. 
 
-## 🔄️ Update 1.6.1-BETA
-Nach einigem experimentieren steht endlich die Webseite und funktioniert so weit auch einigermassen. Leider sind mir jedoch einige mögliche Problempunkte aufgefallen.
-Entgegen dem Ursprünglichen Ziel ist die neue Version immer noch ein Softwarepacket, welches mann sich herunterladen muss. Das eigentlich grössere Problem, welches mich am meisten nervte, war jdeoch ein Anderes. Denn die Assets die unverändert aus den alten Versionen übernommen wurden, waren immernoch statisch und an die jeweilige Software gebunden. Mein Ziel war jedoch, die Assets online verfügbar zu machen, so dass bei allfälligen Änderungen (wie z.B. dem Stundenplan) die Änderungen ohne ein Softwareupdate übernommen werden.
+##🔄 Update 1.6.1-BETA
+Nach ausgiebigen Experimenten steht die Webseite nun endlich bereit und funktioniert weitgehend zuverlässig. Dennoch sind mir mehrere potenzielle Problempunkte aufgefallen:
 
-Der erste Lösungsansatz scheiterte jedoch kläglich an den Sicherheitsprotokollen des Internets, welche mir weiterhin Kopfschmerzen bereiteten. Jedoch wusste der Chatbot die Lösung für mein Problem. Sie hiess FLASK.
-Für alle diejenigen die nicht verstehen was genau FLASK ist: FLASK ermöglichte es mier eine Art Server zu erschaffen der auf Internetanfragen eine Pythonfunktion ausführt und deren Funktionswert zurückgibt. Zuvor hatte ich versucht dass entsprchende JSON-File dirket in die Webseite einzuspeisen.
+Downloadpflichtiges Softwarepaket
+Entgegen dem ursprünglichen Ziel liegt die neue Version weiterhin als Softwarepaket vor, das heruntergeladen werden muss.
 
-Da es ein leichtes war das FLASK Skript auf einen Server zu Uploaden, der von überall erreichbar ist, war nun der Plan auch die Benutzeroberfläche über einen Webserver verfügbar zu machen.
+Statische Assets
+Die aus älteren Versionen übernommenen Assets sind unverändert statisch und an die jeweilige Software gebunden. Mein Ziel war es jedoch, sämtliche Assets online verfügbar zu machen, damit Änderungen (z. B. am Stundenplan) ohne erneutes Softwareupdate übernommen werden.
 
-## 🔄️ Release 1.6.2
-Nach dem erlernen einiger neuer Programmierskills ist es endlich so weit, die neue Homework-Manager Webseite ist da.
+Mein erster Lösungsansatz scheiterte kläglich an den Sicherheitsprotokollen des Internets, die mir weiterhin Kopfzerbrechen bereiteten. Schließlich empfahl mir der Chatbot den Einsatz von Flask. Flask ermöglicht es, einen Server zu betreiben, der auf Internetanfragen eine Python-Funktion ausführt und deren Ergebnis zurückliefert. Zuvor hatte ich versucht, die entsprechende JSON-Datei direkt in die Webseite einzubinden.
 
-Der Vorteil der neuen Webseite ist, dass man sich keine Software mehr herunterladen muss und dass man die Software auch nicht mehr ständig manuell Updaten muss, da alles direkt auf dem Web-Server geschieht. Zudem bietet die Webseitenlösung mehr Gestaltungsoptionen für das Design der Benutzeroberfläche und des weiteren eine Zentale Speicherlösung für die Stundenplan Files und weiteren Assets die auch bereits zuvor in den alten Versionen eingebunden waren. Jedoch waren dieses Files zuvor fest eigebunden und so konnten die alten Versionen nicht veränderte Stundenpläne anzeigen, was inzwischen möglich ist. Zu beginn hatte ich noch einige Probleme damit, dass die Webseite nicht wirklich flüssig lief und sich zeitweise selber aufhängte, inzwischen konnten jedoch alle Fehler behoben werden.
+Da das Flask-Skript problemlos auf einen von überall erreichbaren Server hochgeladen werden konnte, war der nächste Schritt, auch die Benutzeroberfläche über einen Webserver bereitzustellen.
 
-Was noch wichtig zu erwähnen ist, ist dass der Server, welcher die Daten für die Seite bereitstellt, bis zu 80 Sekunden braucht um aus dem Standby zu kommen und die Daten zu liefern. Der Grund dafür ist, dass ich aktuell auf ein kostenloses Angebot für das Hostting setzte, welches diese Einschränkungen mit sich bringt. Aktuell stehen jedoch die überlegungen im Raum für monatlich 7 Fr. auf ein sofort verfügabres Paket zu setzen.
+##🔄 Release 1.6.2
+Nach dem Erwerb weiterer Programmierkenntnisse ist es nun soweit: Die neue Homework-Manager-Webseite ist online.
+
+**Vorteile der Weblösung:**
+
+Keine lokale Installation mehr erforderlich
+Weder der Download einer Software noch manuelle Updates sind nötig, da alle Prozesse direkt auf dem Webserver ausgeführt werden.
+
+Erweiterte Gestaltungsoptionen
+Die Weboberfläche lässt sich deutlich flexibler designen.
+
+Zentrale Speicherung
+Stundenplandateien und weitere Assets liegen zentral auf dem Server und können dynamisch aktualisiert werden. Veränderte Stundenpläne werden nun automatisch angezeigt, ohne dass eine neue Version installiert werden muss.
+
+Anfangs kam es vereinzelt zu Performance-Problemen: Die Webseite lief nicht durchgängig flüssig und hängte sich gelegentlich auf. Inzwischen konnten jedoch alle Fehler behoben werden.
+
+Hinweis zum Hosting:
+Der Server, der die Daten bereitstellt, benötigt aus dem Standby-Modus bis zu 80 Sekunden, um Anfragen zu beantworten. Ursache hierfür ist das kostenlose Hosting-Angebot, das ich derzeit nutze. Es steht jedoch zur Diskussion, für monatlich CHF 7 auf ein Paket mit sofortiger Verfügbarkeit umzusteigen.
 
 ## ℹ️ Mehr Infos
 
