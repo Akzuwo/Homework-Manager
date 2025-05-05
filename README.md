@@ -1,8 +1,8 @@
 # Homework-Manager
-Get latest release: https://akzuwo.ch/Homework-Manager-v1.5.6-dev.exe
 
 Neue Webversion https://homework-manager.akzuwo.ch
-(Info: bitte das Neuladen des Anmeldefensters manuell abbrechen)
+
+Get latest release: https://akzuwo.ch/Homework-Manager-v1.5.6-dev.exe
 
 Mehr Informationen in der Projektbeschreibung
 
