@@ -18,7 +18,7 @@ Die Benutzeroberfläche wurde angepasst um eine höhere Benutzerfreundlichkeit z
 ## 🔄️ Update 1.6.x
 Aktuell versuche ich die Benutzeroberfläche zu überarbeiten, jedoch ist mir schnell klar geworden, dass die Möglichkeiten einer reinen Python Benutzenoberfläche sehr beschränkt sind bzw. viel zu komplieziert um ein gutes Resulat zu erzielen. Die Folge davon war, dass ich mir alternativen überlegen musste. Die Lösung war schnell gefunden, ich wollte die Benutzeroberfläche mit HTML und CSS gestalten (so wie jede Webseite auch programmiert ist). Für die Funktionalitäten wollte ich weiterhin auf Python setzen. 
 
-##🔄 Update 1.6.1-BETA
+## 🔄 Update 1.6.1-BETA
 Nach ausgiebigen Experimenten steht die Webseite nun endlich bereit und funktioniert weitgehend zuverlässig. Dennoch sind mir mehrere potenzielle Problempunkte aufgefallen:
 
 Downloadpflichtiges Softwarepaket
@@ -31,7 +31,7 @@ Mein erster Lösungsansatz scheiterte kläglich an den Sicherheitsprotokollen de
 
 Da das Flask-Skript problemlos auf einen von überall erreichbaren Server hochgeladen werden konnte, war der nächste Schritt, auch die Benutzeroberfläche über einen Webserver bereitzustellen.
 
-##🔄 Release 1.6.2
+## 🔄 Release 1.6.2
 Nach dem Erwerb weiterer Programmierkenntnisse ist es nun soweit: Die neue Homework-Manager-Webseite ist online.
 
 **Vorteile der Weblösung:**
