@@ -19,7 +19,7 @@ Die Benutzeroberfläche wurde angepasst um eine höhere Benutzerfreundlichkeit z
 Die Benutzerfläche wird erneut überarbeitet und zu einer HTML/Flask Oberfläche umgebaut
 
 ## 🔄️ Release 1.6.2
-Nach dem erlernen einiger neuer Programmierskills ist es endlich so weit, die neue Homework-Manager Webseite ist.
+Nach dem erlernen einiger neuer Programmierskills ist es endlich so weit, die neue Homework-Manager Webseite ist da.
 
 Der Vorteil der neuen Webseite ist, dass man sich keine Software mehr herunterladen muss und dass man die Software auch nicht mehr ständig manuell Updaten muss, da alles direkt auf dem Web-Server geschieht. Zudem bietet die Webseitenlösung mehr Gestaltungsoptionen für das Design der Benutzeroberfläche und des weiteren eine Zentale Speicherlösung für die Stundenplan Files und weiteren Assets die auch bereits zuvor in den alten Versionen eingebunden waren. Jedoch waren dieses Files zuvor fest eigebunden und so konnten die alten Versionen nicht veränderte Stundenpläne anzeigen, was inzwischen möglich ist. Zu beginn hatte ich noch einige Probleme damit, dass die Webseite nicht wirklich flüssig lief und sich zeitweise selber aufhängte, inzwischen konnten jedoch alle Fehler behoben werden.
 
