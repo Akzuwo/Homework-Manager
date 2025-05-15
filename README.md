@@ -2,7 +2,7 @@
 
 [Neue Webversion](https://homework-manager.akzuwo.ch)
 
-[Neuste Software](https://akzuwo.ch/Homework-Manager-v1.5.6-dev.exe)
+[Neuste Software](https://data.akzuwo.ch/Homework-Manager-v1.5.6-dev.exe)
 
 Mehr Informationen in der [Projektbeschreibung](https://github.com/Akzuwo/Homework-Manager/blob/main/Projektbeschreibung.md)
 
