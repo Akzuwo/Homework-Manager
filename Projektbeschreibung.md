@@ -50,6 +50,10 @@ Anfangs kam es vereinzelt zu Performance-Problemen: Die Webseite lief nicht durc
 Hinweis zum Hosting:
 Der Server, der die Daten bereitstellt, benötigt aus dem Standby-Modus bis zu 80 Sekunden, um Anfragen zu beantworten. Ursache hierfür ist das kostenlose Hosting-Angebot, das ich derzeit nutze. Es steht jedoch zur Diskussion, für monatlich CHF 7 auf ein Paket mit sofortiger Verfügbarkeit umzusteigen.
 
+## 🔄️ Update 1.6.3 & 1.6.4
+
+Die Webseite hat in mehrere grafische so wie auch sicherheitstechnische Verbesserungen erhalten. Dazu gehören neue Overlays. Zudem habe ich aufgrund von Feedback von Benutzern ein neues Overlay erstellt, welches einem Administator ermöglicht Einträge zu bearbeiten oder zu löschen.
+
 ## ℹ️ Mehr Infos
 
 Falls du **mehr über die Entstehung oder die Struktur** des Projekts erfahren möchtest, kannst du dich gerne bei mir melden. 😊
