@@ -54,6 +54,11 @@ Der Server, der die Daten bereitstellt, benötigt aus dem Standby-Modus bis zu 8
 
 Die Webseite hat in mehrere grafische so wie auch sicherheitstechnische Verbesserungen erhalten. Dazu gehören neue Overlays. Zudem habe ich aufgrund von Feedback von Benutzern ein neues Overlay erstellt, welches einem Administator ermöglicht Einträge zu bearbeiten oder zu löschen.
 
+## 🔄️ Update 1.7 inkl Patch 00x1 & 00x2
+
+Es wurden diverse kleinere Anpassung an der Benutzeroberfläche vorgenommen und es gibt nun die Möglichkeit, Einträge direkt im Kalender zu erfassen und zu bearbeiten
+
 ## ℹ️ Mehr Infos
 
 Falls du **mehr über die Entstehung oder die Struktur** des Projekts erfahren möchtest, kannst du dich gerne bei mir melden. 😊
+
